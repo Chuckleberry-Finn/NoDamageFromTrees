@@ -16,7 +16,6 @@ description=Commissioned by [b]Ring[/b]
 description=[/quote]
 description=
 description=
-description=
 description=[h1]Hire Team Orbit for Custom Mod Commission[/h1]
 description=[url=https://discord.gg/2skchrKrDv][img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/square_serve.gif[/img][/url]
 description=
