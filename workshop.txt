@@ -1,19 +1,11 @@
 version=1
 id=2972504692
 title=No Damage From Trees
-description=[h1] No Damage From Trees by Chuckleberry Finn [/h1]
-description=No longer damage (clothes or self) from walking/jogging through trees.
+description=[h3]No longer damage (clothes or self) from walking/jogging through trees.[/h3]
+description=[h2]Commissioned by [b]Ring[/b][/h2]
 description=
 description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck![/b][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/Vanilla-Weapons-Expanded/main/Contents/mods/VanillaWeaponsExpanded/patreon/Patreon%20Logo.png[/img][/url]
 description=
-description=
-description=
-description=
-description=[quote=author]
-description=Mod by
-description=[b]Chuckleberry Finn[/b]
-description=Commissioned by [b]Ring[/b]
-description=[/quote]
 description=
 description=
 description=[h1]Hire Team Orbit for Custom Mod Commission[/h1]
