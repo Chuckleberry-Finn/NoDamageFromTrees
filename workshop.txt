@@ -1,18 +1,18 @@
 version=1
 id=2972504692
 title=No Damage From Trees
-description=[h3]No longer damage (clothes or self) from walking/jogging through trees.[/h3]
-description=[h2]Commissioned by [b]Ring[/b][/h2]
+description=[h2]No longer damage (clothes or self) from walking/jogging through trees.[/h2]
+description=[h3]Commissioned by [b]Ring[/b][/h3]
+description=
 description=
 description=[url=https://ko-fi.com/chuckleberryfinn][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/kofi.png[/img][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/patreon.png[/img][/url]
 description=
 description=
 description=
-description=[h1]Hire Team Orbit for Custom Mod Commission[/h1]
 description=[url=https://discord.gg/2skchrKrDv][img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/square_serve.gif[/img][/url]
-description=
-description=[h1]Click the banners[/h1]
 description=[url=https://steamcommunity.com/id/glytch3r/myworkshopfiles/?section=collections&appid=108600]
 description=[img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/workshop.png[/img][/url]
+description=
+description=
 tags=Build 41;Misc
 visibility=unlisted
