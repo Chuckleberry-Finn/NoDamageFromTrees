@@ -12,7 +12,5 @@ description=
 description=[url=https://discord.gg/2skchrKrDv][img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/square_serve.gif[/img][/url]
 description=[url=https://steamcommunity.com/id/glytch3r/myworkshopfiles/?section=collections&appid=108600]
 description=[img]https://raw.githubusercontent.com/Glytch3r/TeamOrbitAds/main/workshop.png[/img][/url]
-description=
-description=
 tags=Build 41;Misc
 visibility=unlisted
