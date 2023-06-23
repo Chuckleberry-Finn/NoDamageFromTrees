@@ -1,9 +1,7 @@
 id=NoDamageFromTrees
 name=No Damage From Trees
-description=This Mod is Commissioned to Team Orbit. You are not allowed to reupload this mod.
+description=No longer damage (clothes or self) from walking/jogging through trees.
 poster=poster.png
-authors=TeamOrbit
-icon=icon.png
 tags=Build 41
 versionMin=41.0
 
